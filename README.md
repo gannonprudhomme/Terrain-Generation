@@ -2,7 +2,7 @@
 A terrain generator written in C++ that uses Perlin noise([libnoise](http://libnoise.sourceforge.net/index.html)) to output a height map, and OpenGL to render it.
 - Self-contained heightmap generation
 - Specular lighting
-- Bump mapping for normal maps, calculated within vertex shader from the height map
+- Bump mapping
 
 ## Requires
 - GLFW for window creation
