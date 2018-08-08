@@ -28,8 +28,10 @@ A terrain generator written in C++ that uses Perlin noise([libnoise](http://libn
 - Escape to close the program
 
 ## Screen Shots
+512x512 height map
 ![Imgur](https://i.imgur.com/CgmFHQX.png)
 
+4096x4096 height-map
 ![Imgur](https://i.imgur.com/TCtFCuE.jpg)
 
 Wireframe mode
