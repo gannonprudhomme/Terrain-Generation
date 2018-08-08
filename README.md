@@ -9,7 +9,7 @@ A terrain generator written in C++ that uses Perlin noise([libnoise](http://libn
 - GLEW for using OpenGL
 - GLM for math utilities
 - libnoise for Perlin noise / terrain generation
-- [stb_image](for loading image files into a texture)
+- [stb_image](https://github.com/nothings/stb/blob/master/stb_image.h) for loading image files into a texture
 
 ## Controls
 - W-A-S-D for movement
