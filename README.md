@@ -12,7 +12,7 @@ A terrain generator written in C++ that uses Perlin noise([libnoise](http://libn
 - [stb_image](https://github.com/nothings/stb/blob/master/stb_image.h) for loading image files into a texture
 
 ## How it works
-1. Create heightmap with libnoise and export it to an image file
+1. Create height mp with libnoise and export it to an image file
 2. Vertices are filled with simple x and z coordinates(no height)
 3. OpenGL is set up, vertices are sent to vertex-shader through draw call.
 4. The vertex shader updates each vertex with the according height by reading it from the height map image file.
