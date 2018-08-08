@@ -30,6 +30,8 @@ A terrain generator written in C++ that uses Perlin noise([libnoise](http://libn
 ## Screen Shots
 ![Imgur](https://i.imgur.com/CgmFHQX.png)
 
+![Imgur](https://i.imgur.com/TCtFCuE.jpg)
+
 Wireframe mode
 ![Imgur](https://i.imgur.com/ljAyiwQ.png)
 
